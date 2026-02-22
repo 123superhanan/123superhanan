@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @123superhanan
-- 👀 I’m interested in development
-- 🌱 I’m currently learning React.js
+* 👋 Hi, I’m @123superhanan
 
-<!---
-123superhanan/123superhanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 👀 I’m interested in full-stack development and machine learning
+
+* 🌱 I’m currently learning PyTorch for deep learning models
+
+* 💻 I build apps with MERN stack, React Native, and Firebase
+
+* 🧠 I work with data using Pandas, NumPy, and Scikit-learn
+
+* 🚀 Always open to collaborate on web, mobile, or AI projects
