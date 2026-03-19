@@ -6,7 +6,7 @@
     <a href="mailto:abdulhananabbasi50@gmail.com">
       <img src="https://img.shields.io/badge/Email-abdulhananabbasi50@gmail.com-blue?style=flat&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="tel:+923095970127">
+    <a href="tel:+92300000000">
       <img src="https://img.shields.io/badge/Phone-+92%20309%205970127-success?style=flat&logo=whatsapp&logoColor=white" alt="Phone" />
     </a>
     <a href="www.linkedin.com/in/abdul-hanan-abbasi-60910128b"> <!-- Add your real LinkedIn -->
