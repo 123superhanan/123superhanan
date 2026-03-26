@@ -52,7 +52,7 @@ Passionate **Full Stack Developer** from Islamabad, Pakistan, focused on end-to-
   Annotated large-scale CV datasets (traffic signs, obstacles, lanes) for autonomous vehicles used by Audi & Volkswagen.
 
 ### 🔥 Featured Projects
-( Pin your top 4–6 repos on your profile for these to show prominently! )
+
 
 1. **AI Plant Disease Detection Mobile App** (Ongoing)  
    React Native frontend + PyTorch image classification + Node.js backend + Admin dashboard for dataset & predictions management.
