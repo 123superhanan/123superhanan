@@ -19,16 +19,16 @@
 
 ---
 
-### 🌟 About Me
+###  About Me
 **Passionate Full Stack + AI Developer** from Islamabad, Pakistan.  
 I turn coffee into code and problems into production-ready applications.  
 
 Currently pursuing **ADCS Computer Science** at **Air University Islamabad**  
 **(CGPA 3.38 – Batch of 35, only 4 students still standing 🔥)**
 
-- 🔭 Building **AgroVision** — AI Plant Disease Detection Mobile App (React Native + PyTorch/TensorFlow.js + Node.js backend)
+- 🔭 Building **AgroVision** AI Plant Disease Detection Mobile App (React Native + PyTorch/TensorFlow.js + Node.js backend)
 - 🌱 Mastering production-grade Deep Learning, Computer Vision & scalable full-stack systems
-- 💡 **40+ projects** built **completely from scratch** (YouTube + docs + late nights — zero AI code generation)
+- 💡 **40+ projects** built **completely from scratch** (YouTube + docs + late nights zero AI code generation)
 - 📍 Based in Rawalpindi | Open to Junior Full-Stack / React Native / AI roles
 
 ### 🛠️ Tech Stack
@@ -44,13 +44,13 @@ Currently pursuing **ADCS Computer Science** at **Air University Islamabad**
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </div>
 
-### 💼 Professional Experience
+###  Professional Experience
 - **Frontend Developer** @ YETP Pvt Ltd *(Aug – Oct 2023)*  
   Built production React interfaces + full MERN blog with auth & CRUD
 - **Data Annotation Technician** @ Maanz AI Pvt Ltd *(Feb – Sep 2024)*  
   Annotated large-scale computer vision datasets for **Audi & Volkswagen** autonomous vehicles
 
-### 🔥 Featured Projects
+###  Featured Projects
 **1. AgroVision – AI Plant Disease Detection (Ongoing FYP)**  
 React Native + PyTorch/TensorFlow.js + Node.js + Admin Dashboard  
 Helping Pakistani farmers detect diseases instantly using phone camera.  
@@ -65,11 +65,11 @@ AI-powered invoice processing & management system (OCR + data extraction).
 
 Explore all 40+ projects → **[My Repositories](https://github.com/123superhanan?tab=repositories)**
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=123superhanan&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=123superhanan&theme=radical&hide_border=true" height="180" alt="Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123superhanan&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+###  GitHub Stats
+
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=123superhanan&show_icons=true&theme=radical" height="180" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=123superhanan&theme=radical" height="180" alt="Streak"/>
 </div>
 
 **Last updated:** April 12, 2026  
