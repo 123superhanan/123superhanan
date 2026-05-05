@@ -24,7 +24,7 @@
 I turn coffee into code and problems into production-ready applications.  
 
 Currently pursuing **ADCS Computer Science** at **Air University Islamabad**  
-**(CGPA 3.38 – Batch of 35, only 4 students still standing 🔥)**
+**(CGPA 3.38)**
 
 - 🔭 Building **AgroVision** AI Plant Disease Detection Mobile App (React Native + PyTorch/TensorFlow.js + Node.js backend)
 - 🌱 Mastering production-grade Deep Learning, Computer Vision & scalable full-stack systems
