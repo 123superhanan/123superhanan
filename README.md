@@ -1,78 +1,161 @@
 <div align="center">
-  <h1>👋 ABDUL HANAN ABBASI</h1>
-  <h3>🚀 Full Stack Developer | MERN | React Native | AI Engineer (PyTorch + TensorFlow)</h3>
-  
-  <a href="mailto:abdulhananabbasi50@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abdulhananabbasi50@gmail.com-blue?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="tel:+923095970127">
-    <img src="https://img.shields.io/badge/Phone-+92%20309%205970127-success?style=flat&logo=whatsapp&logoColor=white" alt="Phone"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abdul-hanan-abbasi-60910128b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <br><br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=Building+Real+World+Apps+with+MERN;Turning+Ideas+into+AI-Powered+Mobile+Apps;40%2B+Projects+Built+From+Scratch+(No+AI+Tools);Currently+Creating+AgroVision+-+AI+for+Pakistani+Farmers" alt="Typing SVG"/>
+
+# 👋 Abdul Hanan Abbasi
+
+### Backend Engineer | Node.js • FastAPI • AI Systems • React Native
+
+<a href="mailto:abdulhananabbasi50@gmail.com">
+<img src="https://img.shields.io/badge/Email-abdulhananabbasi50@gmail.com-blue?style=flat&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="tel:+923095970127">
+<img src="https://img.shields.io/badge/Phone-%2B92%20309%205970127-success?style=flat&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abdul-hanan-abbasi-60910128b">
+<img src="https://img.shields.io/badge/LinkedIn-Abdul%20Hanan%20Abbasi-blue?style=flat&logo=linkedin"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00C896&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Designing+REST+APIs+and+Microservices;FastAPI+%7C+Node.js+%7C+PostgreSQL+%7C+React+Native;AI+Applications+with+CNNs+LLMs+and+RAG"/>
+
 </div>
 
 ---
 
-###  About Me
-**Passionate Full Stack + AI Developer** from Islamabad, Pakistan.  
-I turn coffee into code and problems into production-ready applications.  
+# 👨‍💻 About Me
 
-Currently pursuing **ADCS Computer Science** at **Air University Islamabad**  
-**(CGPA 3.38)**
+I'm a Computer Science student and Backend Engineer passionate about building scalable APIs, AI-powered applications, and production-oriented software.
 
-- 🔭 Building **AgroVision** AI Plant Disease Detection Mobile App (React Native + PyTorch/TensorFlow.js + Node.js backend)
-- 🌱 Mastering production-grade Deep Learning, Computer Vision & scalable full-stack systems
-- 💡 **40+ projects** built **completely from scratch** (YouTube + docs + late nights zero AI code generation)
-- 📍 Based in Rawalpindi | Open to Junior Full-Stack / React Native / AI roles
+My work focuses on backend architecture, authentication systems, database design, microservices, and AI integration. I enjoy solving real engineering problems that combine software development with machine learning.
 
-### 🛠️ Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React%20Native-0.74-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-20-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-4-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</div>
+### Current Focus
 
-###  Professional Experience
-- **Frontend Developer** @ YETP Pvt Ltd *(Aug – Oct 2023)*  
-  Built production React interfaces + full MERN blog with auth & CRUD
-- **Data Annotation Technician** @ Maanz AI Pvt Ltd *(Feb – Sep 2024)*  
-  Annotated large-scale computer vision datasets for **Audi & Volkswagen** autonomous vehicles
-
-###  Featured Projects
-**1. AgroVision – AI Plant Disease Detection (Ongoing FYP)**  
-React Native + PyTorch/TensorFlow.js + Node.js + Admin Dashboard  
-Helping Pakistani farmers detect diseases instantly using phone camera.  
-→ [Live Repo](https://github.com/123superhanan/Plant_disease_detection_app)
-
-**2. Real Estate Platform (MERN)**  
-Full-stack app with Cloudinary image uploads, advanced search/filter, authentication & dashboards.  
-→ [Repo](https://github.com/123superhanan)
-
-**3. Invoice AI System**  
-AI-powered invoice processing & management system (OCR + data extraction).  
-
-Explore all 40+ projects → **[My Repositories](https://github.com/123superhanan?tab=repositories)**
-
-###  GitHub Stats
-
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=123superhanan&show_icons=true&theme=radical" height="180" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=123superhanan&theme=radical" height="180" alt="Streak"/>
-</div>
-
-**Last updated:** April 12, 2026  
+- Building production-ready backend systems with Node.js and FastAPI
+- Developing AI-powered mobile applications using CNNs, LLMs, and RAG
+- Learning PostgreSQL, SQLAlchemy, Docker, and scalable backend architecture
+- Contributing to enterprise backend development during my internship
 
 ---
-Thanks for visiting! Let's connect and build something amazing together. 🚀
+
+# 🚀 Core Technologies
+
+### Backend
+
+Node.js • Express.js • FastAPI • REST APIs • JWT • Clerk • Multer • API Design • Microservices
+
+### Databases
+
+PostgreSQL • MongoDB • Firebase Firestore • Neon
+
+### AI
+
+PyTorch • TensorFlow • CNN • RNN • LSTM • Hugging Face • RAG • YOLOv8 • LayoutLM • PaddleOCR
+
+### Frontend
+
+React • React Native • Expo • Next.js
+
+### Cloud & Tools
+
+Git • GitHub • Postman • Cloudinary • Render • Railway • VS Code
+
+---
+
+# 💼 Experience
+
+## Backend Engineering Intern
+
+Working on a production-scale multi-platform application.
+
+Responsibilities include:
+
+- Backend architecture
+- REST API development
+- Business logic implementation
+- Real-time monitoring software
+- Database design
+- API discussions
+- Git collaboration
+- Modular backend development
+
+---
+
+# ⭐ Featured Projects
+
+## 🌱 AgriVision AI
+
+AI-powered plant disease detection platform.
+
+**Stack**
+
+React Native • Node.js • FastAPI • PostgreSQL • TensorFlow • Clerk
+
+Highlights
+
+- 93% CNN accuracy
+- Microservice architecture
+- Real-time disease detection
+- AI recommendations
+- Scan history
+- Multilingual support
+
+➡ Repository:
+https://github.com/123superhanan/Plant_disease_detection_app
+
+---
+
+## 📦 StockWise
+
+AI inventory management system.
+
+Stack
+
+React Native • Node.js • FastAPI • PostgreSQL • YOLOv8 • LayoutLM • LSTM
+
+Highlights
+
+- Receipt OCR
+- Inventory automation
+- Demand forecasting
+- Low-stock alerts
+- AI pipeline
+
+---
+
+## 📈 Customer Churn Prediction
+
+Machine Learning API built using FastAPI.
+
+Stack
+
+FastAPI • Streamlit • Scikit-learn • Pandas
+
+Highlights
+
+- Prediction API
+- Feature engineering
+- Risk scoring
+- Real-time inference
+
+---
+
+## ✨ GlowUp AI
+
+AI personal transformation platform.
+
+Stack
+
+React Native • FastAPI • PyTorch • ChromaDB • MongoDB
+
+Highlights
+
+- CNN image analysis
+- RAG pipeline
+- Fine-tuned LLM
+- Personalized recommendations
+
+---
+
+# 📊 GitHub Statistics
